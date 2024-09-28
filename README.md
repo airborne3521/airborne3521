@@ -21,7 +21,7 @@ I'm a Master's graduate from **Arizona State University - W. P. Carey School of 
 - Email: rvasava@asu.edu
 
 <p align="center">
-Check out my <b>Repositories</b> ⬇️  
+Check out my <b>Repositories (Projects)</b> ⬇️  
 </p>
 
 
