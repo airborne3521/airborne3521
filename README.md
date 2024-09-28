@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+I'm a Master's graduate from **Arizona State University - W. P. Carey School of Business**, with experience in **Data Analytics**, **Product Management**, and **Full-Stack Development**. My passion lies in building impactful products and data-driven solutions.
+
+### 📚 Learning
+- Continuously improving in **Machine Learning**, and **Product Management**.
+- Developing business acumen and entrepreneurship skills.
+
+### 🎯 Hobbies
+- **Meditation** (spiritual growth), **Karate** (Black Belt), **Music**
+- Passionate about **F1 (Formula One)** and **Basketball**
+- Love **volunteering**
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/rakshit-vasava/
+- Email: rvasava@asu.edu
+
+<p align="center">
+Check out my <b>Repositories</b> ⬇️  
+</p>
+
+
 <!--
 **airborne3521/airborne3521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
