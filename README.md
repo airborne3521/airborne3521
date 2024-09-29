@@ -2,7 +2,7 @@
 
 I'm a Master's graduate from **Arizona State University - W. P. Carey School of Business**, with experience in **Data Analytics**, **Product Management**, and **Full-Stack Development**. My passion lies in building impactful products and data-driven solutions.
 
-<img src="assets/Goku6.gif" align="right" width="300" height="200" style="margin-top: 40px;">
+<img src="assets/Goku6.gif" align="right" width="350" height="250" style="margin-top: 40px;">
 
 ### 📚 Learning
 - Continuously improving in **Machine Learning**, and **Product Management**.
